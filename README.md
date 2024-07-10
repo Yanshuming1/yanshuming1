@@ -8,4 +8,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 Like to do something open source.
 - 📚 To make a small and beautiful difference in the world
 - 📫 How to reach me: 56677297@qq.com
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanshuming1&show_icons=true&theme=radical)
