@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm xiaoMing
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<img align="right" alt="img" src="https://pic.3gbizhi.com/uploadmark/20140503/04a46b14475c02fd28993aa967d917a7.jpg" width="50%" height="auto" />
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 📚 I am a java development engineer.
