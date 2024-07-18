@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm xiaoMing
-
-<img align="right" alt="img" src="https://pic.3gbizhi.com/uploadmark/20140503/04a46b14475c02fd28993aa967d917a7.jpg" width="50%" height="auto" />
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 📚 I am a java development engineer.
