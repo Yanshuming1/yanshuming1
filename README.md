@@ -11,7 +11,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - Exercise 3 days a week
 - Contribute to an open-source project at least once a week.
 - Attend tech meetups or networking events every quarter to expand professional connections.
-  
 #### 🔭 Embracing Technology and Community: A Journey into Open Source and Innovation: 
 - Passionate about exploring new technologies
 - Eager to build new connections and friendships
