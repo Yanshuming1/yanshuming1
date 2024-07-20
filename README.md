@@ -5,7 +5,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 Like to do something open source.
 - 📚 To make a small and beautiful difference in the world
 - 📫 How to reach me: 56677297@qq.com
-
 #### 🚀 Some plans: 
 - Dedicate at least 1 hour to learning every day.
 - Exercise 3 days a week
