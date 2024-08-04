@@ -1,4 +1,4 @@
-### Hi there 👋, I'm xiaoMing
+### Hi there 👋, I'm linDong
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 📚 I am a java development engineer.
