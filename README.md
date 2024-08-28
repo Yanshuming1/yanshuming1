@@ -17,6 +17,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - Avid fan of One Piece
 - Aspiring to create and be recognized for an outstanding open-source project in the future!
 #### :computer: Programming languages and tools: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanshuming1)
 [![Skills](https://skillicons.dev/icons?i=java,python,docker,mysql,redis,linux,spring)](https://github.com/AndriiMaliuta)
 
 
