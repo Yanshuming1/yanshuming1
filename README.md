@@ -18,5 +18,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - Aspiring to create and be recognized for an outstanding open-source project in the future!
 #### :computer: Programming languages and tools: 
 [![Skills](https://skillicons.dev/icons?i=java,python,docker,mysql,redis,linux,spring)](https://github.com/AndriiMaliuta)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yanshuming1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 
